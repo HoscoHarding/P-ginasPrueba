@@ -4,31 +4,31 @@
     "url": "https://www.guess.eu",
     "slug": "guess-eu",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1465
+    "uptime": "100.00%",
+    "time": 1420
   },
   {
     "name": "GuessCA",
     "url": "https://www.guess.com/ca/en/home/?changeCountry=1",
     "slug": "guess-ca",
     "status": "up",
-    "uptime": "100.00",
-    "time": 576
+    "uptime": "100.00%",
+    "time": 565
   },
   {
     "name": "GuessNa",
     "url": "https://www.guess.com/us/en_US/home/?changeCountry=1",
     "slug": "guess-na",
     "status": "up",
-    "uptime": "100.00",
-    "time": 309
+    "uptime": "100.00%",
+    "time": 299
   },
   {
     "name": "MarcianoEU",
     "url": "https://www.guess.eu/fr-fr/marciano?INTCMP=REFRESH_SUMMER_HERO_WOMEN_ES",
     "slug": "marciano-eu",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1247
+    "uptime": "100.00%",
+    "time": 1268
   }
 ]
