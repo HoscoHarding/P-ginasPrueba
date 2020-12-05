@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1261,
-    "timeDay": 1060,
-    "timeWeek": 1141,
-    "timeMonth": 1261,
-    "timeYear": 1261
+    "time": 1259,
+    "timeDay": 1228,
+    "timeWeek": 1151,
+    "timeMonth": 1259,
+    "timeYear": 1259
   },
   {
     "name": "GuessCA",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 588,
-    "timeWeek": 602,
-    "timeMonth": 606,
-    "timeYear": 606
+    "time": 603,
+    "timeDay": 539,
+    "timeWeek": 561,
+    "timeMonth": 603,
+    "timeYear": 603
   },
   {
     "name": "GuessNa",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 275,
-    "timeWeek": 278,
-    "timeMonth": 322,
-    "timeYear": 322
+    "time": 329,
+    "timeDay": 440,
+    "timeWeek": 298,
+    "timeMonth": 329,
+    "timeYear": 329
   },
   {
     "name": "MarcianoEU",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1242,
-    "timeDay": 1155,
-    "timeWeek": 1292,
-    "timeMonth": 1242,
-    "timeYear": 1242
+    "time": 1253,
+    "timeDay": 1430,
+    "timeWeek": 1315,
+    "timeMonth": 1253,
+    "timeYear": 1253
   }
 ]
