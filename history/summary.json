@@ -2,6 +2,7 @@
   {
     "name": "GuessEU",
     "url": "https://www.guess.eu",
+    "icon": "https://favicons.githubusercontent.com/www.guess.eu",
     "slug": "guess-eu",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 932,
-    "timeWeek": 1145,
-    "timeMonth": 1244,
-    "timeYear": 1244
+    "time": 1238,
+    "timeDay": 1113,
+    "timeWeek": 1109,
+    "timeMonth": 1238,
+    "timeYear": 1238,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GuessCA",
     "url": "https://www.guess.com/ca/en/home/?changeCountry=1",
+    "icon": "https://favicons.githubusercontent.com/www.guess.com",
     "slug": "guess-ca",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 454,
-    "timeWeek": 558,
-    "timeMonth": 596,
-    "timeYear": 596
+    "time": 591,
+    "timeDay": 495,
+    "timeWeek": 549,
+    "timeMonth": 591,
+    "timeYear": 591,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GuessNa",
     "url": "https://www.guess.com/us/en_US/home/?changeCountry=1",
+    "icon": "https://favicons.githubusercontent.com/www.guess.com",
     "slug": "guess-na",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 224,
-    "timeWeek": 295,
-    "timeMonth": 323,
-    "timeYear": 323
+    "time": 319,
+    "timeDay": 236,
+    "timeWeek": 287,
+    "timeMonth": 319,
+    "timeYear": 319,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MarcianoEU",
     "url": "https://www.guess.eu/fr-fr/marciano?INTCMP=REFRESH_SUMMER_HERO_WOMEN_ES",
+    "icon": "https://favicons.githubusercontent.com/www.guess.eu",
     "slug": "marciano-eu",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 1175,
-    "timeWeek": 1300,
-    "timeMonth": 1248,
-    "timeYear": 1248
+    "time": 1257,
+    "timeDay": 1424,
+    "timeWeek": 1286,
+    "timeMonth": 1257,
+    "timeYear": 1257,
+    "dailyMinutesDown": {}
   }
 ]
