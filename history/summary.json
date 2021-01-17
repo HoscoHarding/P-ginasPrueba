@@ -24,19 +24,19 @@
     "url": "https://www.guess.com/ca/en/home/?changeCountry=1",
     "icon": "https://favicons.githubusercontent.com/www.guess.com",
     "slug": "guess-ca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 587,
-    "timeDay": 437,
-    "timeWeek": 564,
-    "timeMonth": 577,
+    "timeDay": 493,
+    "timeWeek": 569,
+    "timeMonth": 578,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2021-01-17": 0
+      "2021-01-17": 60
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.guess.com/us/en_US/home/?changeCountry=1",
     "icon": "https://favicons.githubusercontent.com/www.guess.com",
     "slug": "guess-na",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 176,
-    "timeWeek": 310,
-    "timeMonth": 314,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 315,
+    "timeDay": 187,
+    "timeWeek": 299,
+    "timeMonth": 311,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2021-01-17": 0
+      "2021-01-17": 60
     }
   },
   {
