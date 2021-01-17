@@ -1,7 +1,7 @@
 url: https://www.guess.com/ca/en/home/?changeCountry=1
-status: down
-code: 521
-responseTime: 208
-lastUpdated: 2021-01-17T04:03:15.089Z
+status: up
+code: 200
+responseTime: 605
+lastUpdated: 2021-01-17T05:03:30.792Z
 startTime: Tue Jan 05 2021 18:18:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
